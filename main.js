@@ -20,7 +20,7 @@ function updateCanvas(){
 }
 
 function preload() {
-    classifier = ml5.imageClassifier('DoodelNet')
+    classifier = ml5.imageClassifier('DoodleNet')
 }
 
 function setup() {
